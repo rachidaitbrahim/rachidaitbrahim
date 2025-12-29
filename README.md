@@ -1,20 +1,16 @@
-# 👋 Hi, I'm Rachid Ait Brahim aka 0xR@M
+## Hi, I'm Rachid Ait Brahim aka 0xR@M
 
-💳 **Senior Software Engineer** in the **Payment Industry**  
-🔐 Focused on **ATMs**, **Card Systems**, and **Electronic Banking Switches**  
-🌍 Building secure financial solutions one protocol at a time
+ **Senior Software Engineer** in the **Payment Industry**  
+Focused on **ATMs**, **Card Systems**, and **Electronic Banking Switches**  
+Building secure financial solutions one protocol at a time
 
----
+## Skills & Specialties
 
-## 🧠 Skills & Specialties
+-  **Protocols**: ISO 8583, EMV, NDC, XFS  
+-  **Domains**: ATM Software, EFTPOS, Switching Engines, EMV Kernel Integration  
+-  **Languages**: C, C++, Java, C#, VB.NET
 
-- 🛰️ **Protocols**: ISO 8583, EMV, NDC, XFS  
-- 🏦 **Domains**: ATM Software, EFTPOS, Switching Engines, EMV Kernel Integration  
-- 💻 **Languages**: C, C++, Java, C#, VB.NET
-
----
-
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -27,9 +23,7 @@
 ![NDC](https://img.shields.io/badge/NDC-ATM%20Protocol-blueviolet)
 ![XFS](https://img.shields.io/badge/XFS-ATM%20API-orange)
 
----
-
-## 📈 GitHub Insights
+##  GitHub Insights
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rachidaitbrahim&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rachidaitbrahim&layout=compact&theme=radical)
@@ -37,23 +31,18 @@
 ![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=rachidaitbrahim&theme=github-compact)
 ![Visitor Count](https://komarev.com/ghpvc/?username=rachidaitbrahim&color=blue)
 
----
-
-## 📌 Featured Projects
+##  Featured Projects
 
 Here are a few projects I work on (real or upcoming!):
-- 🔒 **ATM Diagnostic Agent** – Monitors ATMs in real time using WebSockets
-- 🛰️ **ISO 8583 Router** – Customizable transaction switch for EMV and NDC
-- 🧪 **Protocol Simulator** – Test EMV/NDC flows in sandbox mode
+-  **ATM Diagnostic Agent** – Monitors ATMs in real time using WebSockets
+-  **ISO 8583 Router** – Customizable transaction switch for EMV and NDC
+-  **Protocol Simulator** – Test EMV/NDC flows in sandbox mode
 
 
----
-
-## 📫 Let’s Connect
+##  Let’s Connect
 
 📧 rachidaitbrahim@gmail.com
 
----
 
-> 💡 *“Secure payments start with smart code and temchi mouj@ tji mouj@@ ”*
+>  *“Secure payments start with smart code and temchi mouj@ tji mouj@@ ”*
 
